@@ -1,6 +1,6 @@
 Diablo 2 Patch Fix Online
 
-- FR - 
+[ FR ]
 
 **Instructions**
 - Via Atmosphere : Télécharger et dezipper le fichier, copié le dossier 
@@ -8,7 +8,7 @@ atmosphere a la racine de votre SD puis lancer le jeu
 - Via SXOS : Télécharger et dezipper le fichier, copié le dossier
 sxos a la racine de votre SD puis lancer le jeu
 
-- EN - 
+[ EN ]
 
 Instructions
 - With Atmosphere : Download and unzip the file, copy the 
