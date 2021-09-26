@@ -10,7 +10,7 @@ sxos a la racine de votre SD puis lancer le jeu
 
 [ EN ]
 
-Instructions
+**Instructions**
 - With Atmosphere : Download and unzip the file, copy the 
 atmosphere folder to the root of your SD and launch the game
 - With SXOS : Download and unzip the file, copy the folder
